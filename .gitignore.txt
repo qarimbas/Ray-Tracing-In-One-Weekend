@@ -1,0 +1,11 @@
+
+/Debug
+
+#Vs19 
+.suo
+.db
+.sln
+.vcxproj
+.vcxproj.filters
+.vcxproj.user
+
